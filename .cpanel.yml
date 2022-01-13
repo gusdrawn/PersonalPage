@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/gustzyif/beta.gg/
+    - export DEPLOYPATH=/home/gustzyif/public_html/
     - /bin/cp -R * $DEPLOYPATH
